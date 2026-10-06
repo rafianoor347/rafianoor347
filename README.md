@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Rafia Noor 👋
 
-<!--
-**rafianoor347/rafianoor347** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Software Engineering Student | Web & Mobile Developer
 
-Here are some ideas to get you started:
+- 🔭 **Currently working on**: Full-Stack Web Development
+- 🐍 **Currently Learning**: Python (AI/ML & Cybersecurity)
+- ⚡ **Skills**: Java (JavaFX), C, C++, Full-Stack Web Development (HTML5, CSS3, JavaScript, basic PHP), basic MySQL
+- 🎨 **Interests & Focus**: Artificial Intelligence & Machine Learning, Cybersecurity, Frontend Design, 
+- 📍 **Location**: Sukkur, Pakistan 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📊 GitHub Stats
+![Rafia's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafianoor347&show_icons=true&theme=radial)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafianoor347&layout=compact&theme=radial)
+
+---
+
+🔗 **Connect with me:**
+- 📧 Email: [sn2431882@gmail.com](mailto:sn2431882@gmail.com)
+-
