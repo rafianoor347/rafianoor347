@@ -1,12 +1,12 @@
 # Hi there, I'm Rafia Noor 👋
 
-💻 Full-Stack Developer
+## 💻 Full-Stack Developer
 
-* 💻 **Currently working on:** Full-Stack Web Development[cite: 1]
+* 💻 **Currently working on:** Full-Stack Web Development
 * 🚀 **Currently Learning:** Advanced Backend Architectures & Modern Frameworks
 * ⚡ **Skills:** HTML5, CSS3, JavaScript, TypeScript, React.js, Node.js, Express.js, PHP, MySQL, Git & GitHub
 * 💡 **Interests & Focus:** Full-Stack Web Development, Frontend Design, Backend Integration
-* 📍 **Location:** Sukkur, Pakistan[cite: 1]
+* 📍 **Location:** Sukkur, Pakistan
 
 ---
 
@@ -29,4 +29,4 @@
 
 ## 📬 Connect with me:
 
-* 📧 **Email:** sn2431882@gmail.com[cite: 1]
+* 📧 **Email:** sn2431882@gmail.com
